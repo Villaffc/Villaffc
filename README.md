@@ -1,6 +1,6 @@
 ### Hola 👋, my name is Rodrigo
 #### I´m QA engineer
-![I´m QA engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I´m QA engineer](file:///C:/Users/rodri/Downloads/github-header-image.png)
 
 ¡Hola! Soy Rodrigo Llevo un año peleando contra los bugs y asegurándome de que todo en Indeed sea más suave que la mantequilla. Trabajo con un equipo increíble, y sí, a veces nuestras conversaciones sobre bugs suenan como una mezcla entre CSI y un programa de comedia. Pero en serio, ¡me encanta esto de aseguramiento de calidad!
 
