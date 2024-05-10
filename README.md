@@ -5,7 +5,7 @@
 Llevo un año peleando contra los bugs y asegurándome de que todo en Indeed sea más suave que la mantequilla. Trabajo con un equipo increíble, y sí, a veces nuestras conversaciones sobre bugs suenan como una mezcla entre CSI y un programa de comedia. Pero en serio, ¡me encanta esto de aseguramiento de calidad!
 
 
-Habilidades: HTML / CSS / AWS / SELENIUM / C
+Habilidades: HTML / CSS / AWS / SELENIUM / C / ![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)
 
 - 🔭 Estoy trabajando en Indeed 
 - 🌱 Estoy aprendiendo ISTQB 
