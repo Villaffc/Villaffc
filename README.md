@@ -1,4 +1,4 @@
-### Hola 👋, I´m Rodrigo
+### Hola 👋, I´m Rodrigo Villarroel
 #### I´m QA engineer
 ![I´m QA engineer](https://github.com/Villaffc/Villaffc/blob/3e95ac3904995540edda8427d255b3b297ba7201/github-header-image.png)
 
